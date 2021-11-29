@@ -1,0 +1,18 @@
+﻿Number,data_frame_row_number,Accident Id,Image_link   ,class_type
+1,2,A-2827637,00001.png,
+2,2,A-2827637,0002.png,
+3,2,A-2827637,0003.png,
+4,2,A-2827637,0004.png,14
+5,2,A-2827637,0005.png,
+6,2,A-2827637,0006.png,no class
+7,2,A-2827637,0007.png,14
+8,2,A-2827637,0008.png,no class
+9,2,A-2827637,0009.png,no class
+10,2,A-2827637,0010.png,speed limit- no class
+11,2,A-2827637,0011.png,speed limit ahead- no class
+12,3,A-2827704,0012.png,Rail crossing- no class
+13,3,A-2827704,0013.png,14
+14,3,A-2827704,0014.png,Pedistrian crossing-no class
+15,3,A-2827704,0015.png,13- yeild sign but different
+16,3,A-2827704,0016.png,Rail crossing- no class
+17,3,A-2827704,0017.png,stop here sing- no class
