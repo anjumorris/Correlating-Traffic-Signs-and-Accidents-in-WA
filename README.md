@@ -1,4 +1,7 @@
 # DataScienceProject
+# Traffic Sign Classification
+# Scientific Pandas
+### Anjali Sebastian, Kruta Prabhu, Kshama Kumar
 Data Science Project to Detect Traffic Signs
 
 
