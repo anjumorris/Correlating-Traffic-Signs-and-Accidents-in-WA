@@ -12,6 +12,7 @@ Part B: Related to image data that was used to train and test out model
 
 
 
+
 Part A consist of following files:
 
 
