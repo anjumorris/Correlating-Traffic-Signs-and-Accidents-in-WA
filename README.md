@@ -31,19 +31,19 @@ File A3: accident_feature_selection.ipynb
 
 
 
-**Part B consist of following files**
+**Part B consist of following files:**
 
 
 Navigation: Github Repository-> main page
 
 
-File B1:CNN-early-stoppage.ipynb
+File B1: CNN-early-stoppage.ipynb
 
 
-File B2:CNN-Test.ipynb
+File B2: CNN-Test.ipynb
 
 
-File B3:CNN-Test-Real-Images.ipynb
+File B3: CNN-Test-Real-Images.ipynb
 
 
 
