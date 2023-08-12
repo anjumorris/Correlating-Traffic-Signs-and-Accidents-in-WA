@@ -1,8 +1,9 @@
-# DataScienceProject
-# Traffic Sign Classification
-# Scientific Pandas
+# Correlating Traffic Signs and Accidents 
+# Team Scientific Pandas
 ### Anjali Sebastian, Kruta Prabhu, Kshama Kumar
-Data Science Project to Detect Traffic Signs
+Data Science Project
+
+
 
 
 We have 2 parts for out project:
